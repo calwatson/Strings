@@ -1,0 +1,13 @@
+# IDEA files
+.idea
+/.idea/copyright/*
+/.idea/libraries/*
+/.idea/scopes/*
+/.idea/*
+*.iml
+*.ipr
+*.iws
+/sms-parent/atlassian-ide-plugin.xml
+
+# maven files
+target
